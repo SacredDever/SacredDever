@@ -6,10 +6,10 @@
 </h3>
 
 <div align="center">
-  <img src="https://github.com/SacredDever/SacredDever/divider1.png" alt="divider"/>
+  <img src="s://github.com/SacredShiner/SacredShiner/blob/main/divider1.png" alt="divider"/>
 </div> 
 
-<h3 align="center"><img src="https://github.com/SacredDever/SacredDever/code.gif" height="20"/> Tech & Tools</h3>
+<h3 align="center"><img src="https://github.com/SacredShiner/SacredShiner/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -111,7 +111,7 @@
 </div>  -->
 
 <div align="center">
-  <img src="https://github.com/SacredDever/SacredDever/divider1.png" alt="divider"/>
+  <img src="s://github.com/SacredShiner/SacredShiner/blob/main/divider1.png" alt="divider"/>
 </div> 
 
    
