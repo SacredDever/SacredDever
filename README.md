@@ -1,9 +1,9 @@
-<h1 align="center">
+<!-- <h1 align="center">
   Hi, Nice to meet you.
 </h1>
 <h3 align="center">
   Full Stack & Mobile & Blockchain Developer.
-</h3>
+</h3> -->
 
 <div align="center">
   <img src="https://github.com/SacredDever/SacredDever/blob/main/divider1.png" alt="divider"/>
@@ -119,20 +119,23 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=SacredDever&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:sacreddever@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/w9TMQCH1igKg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/DevKingSacred" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://ellischan.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+  <a href="https://ellischan.netlify.app" target="_blank" rel="noopener noreferrer"><img src="[def]"  width="50" /></a>
   
-</p>
+</p> -->
 
-<h2 align="center"> Thanks for visiting my profile. </h2>
+<!-- <h2 align="center"> Thanks for visiting my profile. </h2> -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
 
+
+
+[def]: ttps://img.icons8.com/nolan/2x/link.pn
